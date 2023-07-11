@@ -1,0 +1,54 @@
+body{
+    background-size: cover;
+    
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPnrFOGRh0KUxM_300ZdSB43du-zwr7hxZDuuNxTvIHXprjXK05DE-kUegQOfE9qshGMY&usqp=CAU')
+    
+}
+h1{
+    padding-top: 16px;
+    color: yellow;
+    text-align: center
+    
+}
+#one{
+    font-style: italic;
+    padding: 5px;
+    font-size: 20px;
+    color:white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#two{
+    padding: 4px;
+    color:white;
+    margin-right: 25px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+#three{
+    padding: 4px;
+    margin-right: 25px;
+    color:white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold;
+}
+button{
+    font-family: sans-serif;
+    color: #016f32;
+    margin-top: 3px;
+    margin-left: 70px;
+    margin-bottom:2px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    align-content: center;
+    border-radius: 2px;
+    background-color: #FFF700;
+    align-items: center;
+    border: none;
+    width: 150px;
+    
+}
